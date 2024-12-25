@@ -7,3 +7,8 @@ else :
 
 print("let's demonstrate merge conflicts")   
 print("This is new line with no conflicts!")
+
+gender = "female"
+
+if gender === "male" :
+    print("You can enter without permission")
